@@ -1,0 +1,10 @@
+C:\Users\dilmukhametovir\source\repos\ActiveDirectoryTree\ActiveDirectoryTree\bin\Debug\ActiveDirectoryTree.exe.config
+C:\Users\dilmukhametovir\source\repos\ActiveDirectoryTree\ActiveDirectoryTree\bin\Debug\ActiveDirectoryTree.exe
+C:\Users\dilmukhametovir\source\repos\ActiveDirectoryTree\ActiveDirectoryTree\bin\Debug\ActiveDirectoryTree.pdb
+C:\Users\dilmukhametovir\source\repos\ActiveDirectoryTree\ActiveDirectoryTree\obj\Debug\ActiveDirectoryTree.csprojResolveAssemblyReference.cache
+C:\Users\dilmukhametovir\source\repos\ActiveDirectoryTree\ActiveDirectoryTree\obj\Debug\ActiveDirectoryTree.FADTreeView.resources
+C:\Users\dilmukhametovir\source\repos\ActiveDirectoryTree\ActiveDirectoryTree\obj\Debug\ActiveDirectoryTree.Properties.Resources.resources
+C:\Users\dilmukhametovir\source\repos\ActiveDirectoryTree\ActiveDirectoryTree\obj\Debug\ActiveDirectoryTree.csproj.GenerateResource.Cache
+C:\Users\dilmukhametovir\source\repos\ActiveDirectoryTree\ActiveDirectoryTree\obj\Debug\ActiveDirectoryTree.csproj.CoreCompileInputs.cache
+C:\Users\dilmukhametovir\source\repos\ActiveDirectoryTree\ActiveDirectoryTree\obj\Debug\ActiveDirectoryTree.exe
+C:\Users\dilmukhametovir\source\repos\ActiveDirectoryTree\ActiveDirectoryTree\obj\Debug\ActiveDirectoryTree.pdb
