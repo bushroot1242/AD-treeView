@@ -1,0 +1,10 @@
+c:\users\dilmukhametovir\source\repos\ADUsers\ADUsers\bin\Debug\ADUsers.exe.config
+c:\users\dilmukhametovir\source\repos\ADUsers\ADUsers\bin\Debug\ADUsers.exe
+c:\users\dilmukhametovir\source\repos\ADUsers\ADUsers\bin\Debug\ADUsers.pdb
+c:\users\dilmukhametovir\source\repos\ADUsers\ADUsers\obj\Debug\ADUsers.Form1.resources
+c:\users\dilmukhametovir\source\repos\ADUsers\ADUsers\obj\Debug\ADUsers.Properties.Resources.resources
+c:\users\dilmukhametovir\source\repos\ADUsers\ADUsers\obj\Debug\ADUsers.csproj.GenerateResource.Cache
+c:\users\dilmukhametovir\source\repos\ADUsers\ADUsers\obj\Debug\ADUsers.csproj.CoreCompileInputs.cache
+c:\users\dilmukhametovir\source\repos\ADUsers\ADUsers\obj\Debug\ADUsers.exe
+c:\users\dilmukhametovir\source\repos\ADUsers\ADUsers\obj\Debug\ADUsers.pdb
+c:\users\dilmukhametovir\source\repos\ADUsers\ADUsers\obj\Debug\ADUsers.csprojResolveAssemblyReference.cache
